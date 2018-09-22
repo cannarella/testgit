@@ -1,12 +1,9 @@
 aaajjjjjf
 2 deux
 retour branche master
-
 ajout d'un pied de page [problème 53]"
 blabla...bla
 FIN ajout d'un pied de page [problème 53]"
-
-
 debut git checkout -b correctif -1
 debut coorectif 2
 
