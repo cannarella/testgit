@@ -6,4 +6,6 @@ ajout d'un pied de page [problème 53]"
 blabla...bla
 FIN ajout d'un pied de page [problème 53]"
 
+debut coorectif 2
+
 
